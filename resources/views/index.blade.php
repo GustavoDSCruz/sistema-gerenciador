@@ -58,7 +58,7 @@
             <input class="form-control" type="text">
             <label class="form-label">Observação:</label>
             <textarea name="" id="" cols="30" rows="5"></textarea> 
-            <button class="btn btn-primary form-control mt-4">Cadastrar</button>
+            <button class="btn btn-primary form-control mt-4">Cadastrar</button><br>
         </form>
     </div>
     
